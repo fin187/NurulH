@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+
+
+
+<head>
+	<meta charset+"utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>My First Personal Website</title>
+</head>
+
+<body>
+	<h1 style="color:DodgerBlue;"><b>WELCOME</b></h1>
+	<h2 style="color:Teal;">BIODATA</h2>
+	<p><b>NAME :</b>Muhammad Fazrib Iddin Bin Nashru.</p>
+	<p><b>DATE OF BIRTH :</b> 12/6/1994</p>
+	<p><b>ADDRESS :</b> Pasir Puteh, Kelantan</p>
+	<p><b>HIGHEST EDUCATION :</b> Diploma in Business Management</p>
+	<p><b>OCCUPATION :</b> Website Design and HTML</p>
+	<p><b>INTEREST :</b> Management, Financial and Marketing</p>
+<hr>
+
+	<h2 style="color:DodgerBlue;"><b>EXPERIENCE</b></h2>
+<p>
+	<b>Daily Tasks</b><br>
+<ul>
+	<li>Intiate quick relationships with prospective customers</li>
+	<li>Establish rapport with members of the local market</li>
+	<li>Present promotional packages with professionalism and high energy</li>
+</ul>
+	<b>Perks of the position</b><br>
+<ul>
+	<li>Dedicated training administered by supervisors</li>
+	<li>Bonuses, incentives, and rewards for good conduct</li>
+	<li>Sociable, welcoming, and supportive team environment</li>
+</ul>
+	<b>My Skill</b><br>
+<ul>
+	<li>Communicates effectively and professionally</li>
+	<li>Sociable people person with and extroverted personality</li>
+	<li>Natural leadership qualities</li>
+</ul>
+<hr>
+	<h2 style="color:DodgerBlue;"><b>EDUCATION</b></h2>
+<ol>
+	<li><b>2012-2016</b>
+	<ul>Universiti Teknologi MARA Campus Machang,Kelantan</li>
+	<li>Diploma in Business Management</li>
+</ul><br>
+	<li><b>2017-Present</b>
+<ul>
+	Universiti Teknologi MARA Campus KotaBharu,Kelantan</li>
+	<li>Bachelor of Business Administration (Hons) Marketing</li>
+</ol>
+<hr>
+
+<h2 style="color:DodgerBlue;"><b>FAMILY</b></h2>
+<img src="My little.jpg" alt="Litle One">
+<img src="My Sisters.jpg" alt="My Sister">
+<img src="My Sister in law" alt="My Sister in law">
+<img src="my nieces.jpg" alt="My nieces">
+<img src="My Family.jpg" alt="Big Family">
+<img src="My mom.jpg" alt="My Mom">
+<img src="My Brother.jpg" alt="My Brother">
+
+
+
+
+
+
+
+<style>
+body 
+  
+</style>
+
+</body>
+</html>
